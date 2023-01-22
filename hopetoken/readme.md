@@ -1,6 +1,1 @@
-package_id : 0x5f7a4a302ddee43a4e78451a855da91aebe40173
-coin_meta : 0xf7c6a176396aa055d54c595cf9a5dc567306de24
-treaser_cap : 0xffeea01dad03c0706bed450c24faffe1b4894d1f
-type :  0x5f7a4a302ddee43a4e78451a855da91aebe40173::HopeToken::HOPETOKEN
 
-faucetable : 
