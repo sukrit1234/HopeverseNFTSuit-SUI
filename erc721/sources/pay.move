@@ -1,4 +1,4 @@
-/// This module provides handy functionality for wallets and `sui::Coin` management.
+
 module erc721::pay {
     use sui::tx_context::{Self, TxContext};
     use erc721::erc721::{Self,ItemBox};
