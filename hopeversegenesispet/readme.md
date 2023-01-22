@@ -1,0 +1,7 @@
+package_id : 0x22b23d922fdcd7be2920a94df3bde9f2597c26c0
+
+metadata_object_id : 0x22ce9b01c49a1d43caca18c361d7b1710884978c
+capability_object_id : 0x35e0683d76a493d1c92635fdf59358b4d28972c4
+collection_object_id : 0x7d0b39e0e3fb5af1f57ec9a5884f50545cef8407
+
+type : 	0x22b23d922fdcd7be2920a94df3bde9f2597c26c0::HopeveresGenesisPet::HOPEVERESGENESISPET

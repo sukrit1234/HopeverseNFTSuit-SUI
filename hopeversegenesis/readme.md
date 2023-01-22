@@ -1,0 +1,7 @@
+package_id : 0xc5df253c58ecfc271de1e6625e5db97bb14775bf
+
+metadata_object_id : 0x758a3e70f19d43bc150f045a2ab1447655be81b2
+capability_object_id : 0xebfd8c9c53d73c898d5a4cacaef07bdadc4f0594
+collection_object_id : 0x261182de8f697afaf3691f06a5071d2195940011
+
+type : 	0xc5df253c58ecfc271de1e6625e5db97bb14775bf::HopeveresGenesis::HOPEVERESGENESIS
