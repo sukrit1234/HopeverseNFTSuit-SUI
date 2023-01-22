@@ -8,7 +8,6 @@ erc1155 = { local  = "../erc1155", rev = "devnet" }
 
 
 [addresses]
-#erc1155 = "0x0"
+erc1155 = "0x0"
 hopeversegenesis = "0x0"
-erc1155 = "0x15dfff85cd6d378cd4b79df394821213068e7121"
 sui =  "0000000000000000000000000000000000000002"
