@@ -13,4 +13,4 @@ Multi Token has some add-on to improve utility of [ERC1155 Module](https://githu
 
 ## Add-On for Individual Tokem Modules
 Individual Token has some add-on to improve utility of [ERC721 Modeule](https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/erc721)
- + [Multi Token Mint](https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/multitoken_mint)
+ + [Multi Token Mint](https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/multitoken_mint) : Add-on that add whitelist minting capability to erc721 (address whitelisting and charge mint fee) and can any sui::Coin as mint fee. (including SUI)
