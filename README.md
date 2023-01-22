@@ -13,4 +13,14 @@ Multi Token has some add-on to improve utility of [ERC1155 Module](https://githu
 
 ## Add-On for Individual Token Modules
 Individual Token has some add-on to improve utility of [ERC721 Modeule](https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/erc721)
- + [Multi Token Mint](https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/multitoken_mint) : Add-on that add whitelist minting capability to erc721 (address whitelisting and charge mint fee) and can any sui::Coin as mint fee. (including SUI)
+ + [Erc721 Mint](https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/multitoken_mint) : Add-on that add whitelist minting capability to erc721 (address whitelisting and charge mint fee) and can any sui::Coin as mint fee. (including SUI)
+
+## Add-On for sui::coin module
+ + [Faucetable](https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/faucetable) : Add-on that add ability to request and refill faucet for any sui::coin.
+
+
+## Use Case Module
+Module just usecase for Fundamental and add-on modules
++ [Hope Token](https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/hopetoken) : sui::coin that use as governance token and operation fee in Hopeverse.
++ [Hopeverse Genesis](https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/hopeversegenesis) : Genesis collection of game items in Hopeverse implement from [Multi Token (ERC1155)](https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/erc1155) module.
++ [Hopeverse Genesis Pets](https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/hopeversegenesispet) : Genesis collection of Pets in Hopeverse implement from [Individual Token (ERC721)](https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/erc721) 
