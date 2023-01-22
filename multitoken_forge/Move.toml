@@ -9,5 +9,4 @@ erc1155 = { local = "../erc1155", rev = "devnet" }
 [addresses]
 multitoken_forge =  "0x0"
 sui =  "0000000000000000000000000000000000000002"
-#erc1155 =  "0x0"
-erc1155 = "0x15dfff85cd6d378cd4b79df394821213068e7121"
+erc1155 =  "0x0"
