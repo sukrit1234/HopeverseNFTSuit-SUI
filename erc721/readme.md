@@ -12,4 +12,4 @@ It's very similar functional like create_currency on sui::coin module. It's will
     + **CollectionMetadata<T>** metadata for collection including name , symbol , description , icon_url,capability_object_id,collection_object_id , It's sui move shared object.   
     + **CollectionCapability<T>** similar **TreasureCap<T>** on sui::coin - Admin or module publisher owned this object. and change transfer by change_owner.
     + **Collection<T>** shared object that hold deinition of each token (item) in collection.
-+ other function is self explanation. and you can see use case in [Hopeverse Genesis Pets] (https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/hopeversegenesispet)
++ other function is self explanation. and you can see use case in [Hopeverse Genesis Pets](https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/hopeversegenesispet)
