@@ -1,5 +1,5 @@
 ## ERC721 Module (Individual Token)
-It's compose with 3 modules. Functional on erc1155 module likely with sui::Coin<T> but implement along ethereum ERC1155 Standard.
+It's compose with 3 modules. Functional on erc721 module likely with sui::Coin<T> but implement along ethereum ERC721 Standard.
 
  + **erc721** : main module for erc721 implementation
  + **erc721_metadata** : module that define Metadata foreach erc721 token with read and write accessor for ERC721Metadata, because sui::erc721_metadata is lack of write accessor so need to fork this version
