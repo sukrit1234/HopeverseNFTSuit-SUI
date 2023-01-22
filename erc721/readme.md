@@ -6,7 +6,7 @@ It's compose with 3 modules. Functional on erc1155 module likely with sui::Coin<
  + **pay** : module that modify from sui::Coin<T> but use for erc721::erc721::ItemBox<T>
 
 
-## erc721 important methods
+## ERC721 important methods
  + **create_collection<T: drop>(...)**
 It's very similar functional like create_currency on sui::coin module. It's will create
     + **CollectionMetadata<T>** metadata for collection including name , symbol , description , icon_url,capability_object_id,collection_object_id , It's sui move shared object.   
