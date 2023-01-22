@@ -14,3 +14,4 @@ It's very similar functional like create_currency on sui::coin module. It's will
     + **CollectionCapability<T>** similar **TreasureCap<T>** on sui::coin - Admin or module publisher owned this object. and change transfer by change_owner.
     + **Collection<T>** shared object that hold deinition of each token (item) in collection.
 + **define_item<T:drop>(...)** deine token in collection and token_id will emitted via ItemDefined event.
++ other function is self explanation. and you can see use case in [Hopeverse Genesis] (https://github.com/sukrit1234/HopeverseNFTSuit-SUI/edit/main/hopeversegenesis/)
