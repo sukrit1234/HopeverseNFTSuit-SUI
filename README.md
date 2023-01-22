@@ -23,4 +23,4 @@ Individual Token has some add-on to improve utility of [ERC721 Modeule](https://
 Module just usecase for Fundamental and add-on modules
 + [Hope Token](https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/hopetoken) : sui::coin that use as governance token and operation fee in Hopeverse.
 + [Hopeverse Genesis](https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/hopeversegenesis) : Genesis collection of game items in Hopeverse implement from [Multi Token (ERC1155)](https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/erc1155) module.
-+ [Hopeverse Genesis Pets](https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/hopeversegenesispet) : Genesis collection of Pets in Hopeverse implement from [Individual Token (ERC721)](https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/erc721) 
++ [Hopeverse Genesis Pets](https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/hopeversegenesispet) : Genesis collection of Pets in Hopeverse implement from [Individual Token (ERC721)](https://github.com/sukrit1234/HopeverseNFTSuit-SUI/tree/main/erc721) Module
